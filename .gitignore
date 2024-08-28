@@ -133,3 +133,5 @@ cython_debug/
 # PyCharm
 .idea/
 *.xml
+
+data/
