@@ -135,3 +135,4 @@ cython_debug/
 *.xml
 
 data/
+lightning_logs/
